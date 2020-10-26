@@ -1,0 +1,6 @@
+setup.py
+src/WRGPT.egg-info/PKG-INFO
+src/WRGPT.egg-info/SOURCES.txt
+src/WRGPT.egg-info/dependency_links.txt
+src/WRGPT.egg-info/requires.txt
+src/WRGPT.egg-info/top_level.txt
